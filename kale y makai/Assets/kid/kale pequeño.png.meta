@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 5b276b935148d77488e88aaa0d76dd03
+TextureImporter:
+  fileIDToRecycleName: {}
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones:
+    - name: Belly
+      position: {x: 283.87985, y: 317.13303, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7113031, w: 0.7028854}
+      length: 116.769905
+      parentId: -1
+    - name: Neck
+      position: {x: 141.80504, y: 1.0920569, z: 0}
+      rotation: {x: 0, y: 0, z: 0.023423512, w: 0.99972564}
+      length: 47.34238
+      parentId: 0
+    - name: Head
+      position: {x: 71.176834, y: 2.7752306, z: 0}
+      rotation: {x: 0, y: 0, z: -0.016360156, w: 0.9998662}
+      length: 266.97427
+      parentId: 1
+    - name: Arm_L
+      position: {x: 116.05842, y: 57.0033, z: 0}
+      rotation: {x: 0, y: -0, z: 0.94866854, w: 0.31627217}
+      length: 70.61798
+      parentId: 0
+    - name: Hand_L
+      position: {x: 70.61798, y: -0.000018601726, z: 0}
+      rotation: {x: 0, y: 0, z: 0.019341802, w: 0.99981296}
+      length: 77.10532
+      parentId: 3
+    - name: Arm_R
+      position: {x: 107.421, y: -84.68592, z: 0}
+      rotation: {x: 0, y: -0, z: -0.9505488, w: 0.31057522}
+      length: 76.45105
+      parentId: 0
+    - name: Hand_R
+      position: {x: 76.45106, y: -0.0000037231875, z: 0}
+      rotation: {x: 0, y: 0, z: 0.02039526, w: 0.99979204}
+      length: 68.167694
+      parentId: 5
+    - name: Hip
+      position: {x: -26.391989, y: 1.7043432, z: 0}
+      rotation: {x: 0, y: -0, z: -0.9998596, w: 0.01675964}
+      length: 30.611992
+      parentId: 0
+    - name: Leg_L
+      position: {x: -47.538597, y: 93.70389, z: 0}
+      rotation: {x: 0, y: -0, z: 0.9946927, w: 0.102890424}
+      length: 86.416336
+      parentId: 0
+    - name: Shinbone_L
+      position: {x: 86.41635, y: -0.0000015070682, z: 0}
+      rotation: {x: 0, y: 0, z: 0.071657464, w: 0.9974293}
+      length: 82.117096
+      parentId: 8
+    - name: Foot_L
+      position: {x: 39.36446, y: 74.37599, z: 0}
+      rotation: {x: 0, y: 0, z: 0.04710934, w: 0.99888974}
+      length: 32.000645
+      parentId: 9
+    - name: Leg_R
+      position: {x: 26.130896, y: 115.69439, z: 0}
+      rotation: {x: 0, y: 0, z: 0.016269738, w: 0.9998677}
+      length: 89.23236
+      parentId: 7
+    - name: Shinbone_R
+      position: {x: 89.23237, y: -0.0000010643755, z: 0}
+      rotation: {x: 0, y: 0, z: 0.024310693, w: 0.9997045}
+      length: 77.06777
+      parentId: 11
+    - name: Foot_R
+      position: {x: 27.427464, y: -70.749916, z: 0}
+      rotation: {x: 0, y: 0, z: -0.08044388, w: 0.9967592}
+      length: 40.33452
+      parentId: 12
+    spriteID: 0a8c950b1420afe46bf109ad7a492ef8
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
