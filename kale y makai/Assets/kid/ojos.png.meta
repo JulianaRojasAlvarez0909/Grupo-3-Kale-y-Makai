@@ -76,7 +76,7 @@ TextureImporter:
     physicsShape: []
     bones:
     - name: bone_1
-      position: {x: 89.85676, y: 3.7090702, z: 0}
+      position: {x: 89.85676, y: 3.7090702, z: 30}
       rotation: {x: 0, y: 0, z: 0.691014, w: 0.7228414}
       length: 15.876942
       parentId: -1
