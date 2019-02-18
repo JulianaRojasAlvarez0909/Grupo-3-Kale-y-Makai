@@ -1,0 +1,30 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion VersionName="SD_Aulto" ID="1">
+ <Element Name="Cuello" ID="2" Folder="Cuello">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Torzo" ID="3" Folder="Torzo">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="cabeza" ID="4" Folder="cabeza">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="ojo" ID="5" Folder="ojo">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="manoL" ID="7" Folder="manoL">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="manoR" ID="8" Folder="manoR">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Cintura" ID="9" Folder="Cintura">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="PieR" ID="10" Folder="PieR">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="PieL" ID="11" Folder="PieL">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+</SceneVersion>
