@@ -1,0 +1,5 @@
+ToonBoomAnimationInc PaletteList 1
+palette-library/Walking LINK "C:/Users/user/Documents/GitHub/Grupo-3-Kale-y-Makai/ToonBoom/Walking/palette-library/Walking.plt"
+palette-library/Walking_pencil_texture LINK "C:/Users/user/Documents/GitHub/Grupo-3-Kale-y-Makai/ToonBoom/Walking/palette-library/Walking_pencil_texture.plt"
+palette-library/SD_Aulto LINK "C:/Users/user/Documents/GitHub/Grupo-3-Kale-y-Makai/ToonBoom/Walking/palette-library/SD_Aulto.plt"
+palette-library/SD_Aulto_pencil_texture LINK "C:/Users/user/Documents/GitHub/Grupo-3-Kale-y-Makai/ToonBoom/Walking/palette-library/SD_Aulto_pencil_texture.plt"
