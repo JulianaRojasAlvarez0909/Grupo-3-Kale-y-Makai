@@ -1,0 +1,69 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion VersionName="Helado_Escena" ID="1">
+ <Element Name="cuerpo" ID="2" Folder="cuerpo">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="cola" ID="3" Folder="cola">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="ojos" ID="4" Folder="ojos">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="pierna_del_frontal" ID="5" Folder="pierna_del_frontal">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="cabeza" ID="6" Folder="cabeza">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="boca" ID="7" Folder="boca">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="nariz" ID="8" Folder="nariz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="pierna_tras_frontal" ID="9" Folder="pierna_tras_frontal">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="orja_lateral" ID="10" Folder="orja_lateral">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="pierna_del_costado" ID="11" Folder="pierna_del_costado">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="pierna_tras_costado" ID="12" Folder="pierna_tras_costado">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="orja_frontal" ID="13" Folder="orja_frontal">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="CH_ManoR_SD" ID="40" Folder="CH_ManoR_SD.40">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="CH_ManoL_SD" ID="41" Folder="CH_ManoL_SD.41">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="CH_Cintura_SD" ID="42" Folder="CH_Cintura_SD.42">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="CH_PielR_SD" ID="43" Folder="CH_PielR_SD.43">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="CH_PielL_SD" ID="44" Folder="CH_PielL_SD.44">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="CH_Cuello_SD" ID="45" Folder="CH_Cuello_SD.45">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="CH_Cabeza_SD" ID="46" Folder="CH_Cabeza_SD.46">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="CH_Ojo_SD" ID="47" Folder="CH_Ojo_SD.47">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="CH_Boca_SD" ID="48" Folder="CH_Boca_SD.48">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="CH_Torzo_SD" ID="49" Folder="CH_Torzo_SD.49">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+</SceneVersion>
