@@ -24,4 +24,5 @@
  <element id="71" elementName="Planta_Pie" elementFolder="Planta_Pie.71" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="72" elementName="Pierna" elementFolder="Pierna.72" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="73" elementName="Pie1" elementFolder="Pie1.73" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="74" elementName="Helado" elementFolder="Helado" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
