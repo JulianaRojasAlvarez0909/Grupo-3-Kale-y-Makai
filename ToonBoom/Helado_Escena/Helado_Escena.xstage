@@ -934,7 +934,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="-13,-64,4" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="-13,-64,3" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -986,7 +986,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <group name="Rig_perro" pos="58,-153,3">
+     <group name="Rig_perro" pos="58,-153,4">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
@@ -7543,8 +7543,8 @@
          <angle val="0" defaultValue="0"/>
          <skew val="0" defaultValue="0"/>
          <pivot>
-          <x val="0" defaultValue="0"/>
-          <y val="0" defaultValue="0"/>
+          <x val="-2.6666602651313278" defaultValue="0"/>
+          <y val="-1.5999961590787961" defaultValue="0"/>
           <z val="0" defaultValue="0"/>
          </pivot>
          <splineOffset>
