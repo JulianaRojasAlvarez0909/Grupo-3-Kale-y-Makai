@@ -12,14 +12,16 @@
  <element id="11" elementName="pierna_del_costado" elementFolder="pierna_del_costado" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="12" elementName="pierna_tras_costado" elementFolder="pierna_tras_costado" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="13" elementName="orja_frontal" elementFolder="orja_frontal" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="40" elementName="CH_ManoR_SD" elementFolder="CH_ManoR_SD.40" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="41" elementName="CH_ManoL_SD" elementFolder="CH_ManoL_SD.41" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="42" elementName="CH_Cintura_SD" elementFolder="CH_Cintura_SD.42" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="43" elementName="CH_PielR_SD" elementFolder="CH_PielR_SD.43" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="44" elementName="CH_PielL_SD" elementFolder="CH_PielL_SD.44" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="45" elementName="CH_Cuello_SD" elementFolder="CH_Cuello_SD.45" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="46" elementName="CH_Cabeza_SD" elementFolder="CH_Cabeza_SD.46" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="47" elementName="CH_Ojo_SD" elementFolder="CH_Ojo_SD.47" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="48" elementName="CH_Boca_SD" elementFolder="CH_Boca_SD.48" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="49" elementName="CH_Torzo_SD" elementFolder="CH_Torzo_SD.49" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="62" elementName="CH_ManoR_SD" elementFolder="CH_ManoR_SD.62" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="63" elementName="CH_ManoL_SD" elementFolder="CH_ManoL_SD.63" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="64" elementName="CH_Cintura_SD" elementFolder="CH_Cintura_SD.64" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="65" elementName="CH_PielL_SD" elementFolder="CH_PielL_SD.65" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="66" elementName="CH_Cuello_SD" elementFolder="CH_Cuello_SD.66" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="67" elementName="CH_Cabeza_SD" elementFolder="CH_Cabeza_SD.67" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="68" elementName="CH_Ojo_SD" elementFolder="CH_Ojo_SD.68" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="69" elementName="CH_Boca_SD" elementFolder="CH_Boca_SD.69" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="70" elementName="CH_Torzo_SD" elementFolder="CH_Torzo_SD.70" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="71" elementName="Planta_Pie" elementFolder="Planta_Pie.71" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="72" elementName="Pierna" elementFolder="Pierna.72" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="73" elementName="Pie1" elementFolder="Pie1.73" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
